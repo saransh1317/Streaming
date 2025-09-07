@@ -1,7 +1,7 @@
 import axios from "axios";
 import queryString from "query-string";
 
-const baseURL = "https://nextfinal.onrender.com";
+const baseURL = "https://nextfinal-iota.vercel.app/";
 
 const publicClient = axios.create({
   baseURL,

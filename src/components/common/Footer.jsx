@@ -42,7 +42,7 @@ const Footer = () => {
             color: 'gray',
           }}
         >
-          &copy; 2025 NextStream Developed by{' '}
+          &copy; 2026 NextStream Developed by{' '}
           <a
             style={{
               textDecoration: 'none',
